@@ -1,7 +1,5 @@
 package com.educandoweb.webservice.entities.enums;
 
-import java.util.Iterator;
-
 public enum OrderStatus {
 
 	WAITING_PAYMENT (1),
